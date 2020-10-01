@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.AssemblyInfo.cs
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.exe
+C:\Users\Max\Desktop\Sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.deps.json
+C:\Users\Max\Desktop\Sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.runtimeconfig.json
+C:\Users\Max\Desktop\Sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.dll
+C:\Users\Max\Desktop\Sinal\Sinal\bin\Debug\netcoreapp3.1\Sinal.pdb
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.dll
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.pdb
+C:\Users\Max\Desktop\Sinal\Sinal\obj\Debug\netcoreapp3.1\Sinal.genruntimeconfig.cache
